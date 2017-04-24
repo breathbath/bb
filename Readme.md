@@ -1,0 +1,1 @@
+Based on http://neuralnetworksanddeeplearning.com/chap1.html and https://prismoskills.appspot.com/lessons/Bitwise_Operators/Sum_using_only_bitwise_ops.jsp
